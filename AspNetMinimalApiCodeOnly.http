@@ -1,0 +1,6 @@
+@AspNetMinimalApiCodeOnly_HostAddress = http://localhost:5047
+
+GET {{AspNetMinimalApiCodeOnly_HostAddress}}/simplecontroller/
+Accept: text/plain
+
+###
